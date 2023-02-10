@@ -1,0 +1,2 @@
+#!/bin/base
+mv [[:upper:]]* /tmp/u
