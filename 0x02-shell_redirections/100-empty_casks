@@ -1,0 +1,2 @@
+#!/bin/bash
+printf . -empty -printf %f'\n'
